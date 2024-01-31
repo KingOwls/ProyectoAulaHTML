@@ -42,13 +42,13 @@ ROG Strix GT15 G15
 
 Explicacion de separacioentes entre los puntos de Celular y PC:
 
-###Celular
+### Celular
 
 Este esta centrado en Practicamente hacer 3 Menus:
 
 1) El primero se basa en la categoria del los productos, Se puede hacer dejando el titulo del producto de interes y ademas de eso agregarle el grupo de especificaciones.(En dado caso de que se requiera de mas imagenes apra el mismo objeto se tendra que buscar.)
 
-**Buscar como hacer un area de zoom a una seccion especifica de una imagen.
+**Buscar como hacer un area de zoom a una seccion especifica de una imagen.**
 
 2) en segundo seria el conjunto de objetos a vender, Los cuales deben tener un grupo de imagenes y una seleccion de una imagen especifica, El nombre Y calidad la cual le colocan (Posiblemenete use cuervos Para señalar la calidad). De la misma forma hacer un Boteon de compra, ademas de agregar un menu el cual muestre la compra.
 

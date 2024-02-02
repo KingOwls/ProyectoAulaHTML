@@ -58,3 +58,13 @@ Especifico: No se trata de dejar o progrmaar yya estructuracion, Ya que eso se h
 Ironicamente la dificultad es ajustar las tablas para que funciones por medio de un flex, y se puedan ajustar.
 
 Lo posible se terminara ajustando entre los puntos importante de un diseño de scroll vertical mostrando cada uno de los productos, posiblemetnte lo mas facil sea hacer las separaciones segun corresponda a la necesidad.
+
+Separacion directa entre los puntos de Describiendo las conexiones que tienen entre los puntos. La paguna principal Debe conectar con Catalogo, Quienes somos y contactos.
+
+De alli, el quienes somos es la separacion de los puntos fundamentales en la empresa y demas, no hace nada especifico.
+
+Al separar las categorias del catalogo debe mostrar un meno con el grupo de productos que se pueden vender, de la misma forma en que lo mostraria cada uno de los grupos de venta.
+
+Ejemplo, Un apartado para los computadores, otro para los Todo en uno, Los libros, Componentes y Cursos.
+
+De all se debe lograr mostrar el como funciona un conjunto de menus. En si puede buscarse en el otro proyecto y como este se ve afectado en la reparacion de ajuste entre movil y PC.

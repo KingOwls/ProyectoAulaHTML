@@ -93,3 +93,8 @@
     text-align: center;
     line-height: 50px;
 }
+.img-scroll{
+    background-size: cover; 
+    width: 250px;
+    height: 200px;
+}

@@ -88,11 +88,8 @@
     height: 300px;
     margin: 0 10px 0 0;
     padding: 0;
-    background: red;
+    background: #011126;
     display: inline-block;
     text-align: center;
     line-height: 50px;
-}
-.product-img{
-    
 }

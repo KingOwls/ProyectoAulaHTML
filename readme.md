@@ -13,6 +13,7 @@ Debe contener un grupo de **menus** (Buscar en el codigo de hamburgeuesas para t
 En cada uno de los menus se debe buscar un conjunto de productos:
 Total de *6!* Conjuntos de productos:
 Tecnologia:
+
 - PC
 - Todo en Uno
 - Celulares
@@ -46,9 +47,7 @@ Explicacion de separacioentes entre los puntos de Celular y PC:
 
 Este esta centrado en Practicamente hacer 3 Menus:
 
-1) El primero se basa en la categoria del los productos, Se puede hacer dejando el titulo del producto de interes y ademas de eso agregarle el grupo de especificaciones.(En dado caso de que se requiera de mas imagenes apra el mismo objeto se tendra que buscar.)
-
-**Buscar como hacer un area de zoom a una seccion especifica de una imagen.**
+1) El primero se basa en la categoria del los productos, Se puede hacer dejando el titulo del producto de interes y ademas de eso agregarle el grupo de especificaciones.(En dado caso de que se requiera de mas imagenes apra el mismo objeto se tendra que buscar.) **Buscar como hacer un area de zoom a una seccion especifica de una imagen.**
 
 2) en segundo seria el conjunto de objetos a vender, Los cuales deben tener un grupo de imagenes y una seleccion de una imagen especifica, El nombre Y calidad la cual le colocan (Posiblemenete use cuervos Para señalar la calidad). De la misma forma hacer un Boteon de compra, ademas de agregar un menu el cual muestre la compra.
 
@@ -68,3 +67,9 @@ Al separar las categorias del catalogo debe mostrar un meno con el grupo de prod
 Ejemplo, Un apartado para los computadores, otro para los Todo en uno, Los libros, Componentes y Cursos.
 
 De all se debe lograr mostrar el como funciona un conjunto de menus. En si puede buscarse en el otro proyecto y como este se ve afectado en la reparacion de ajuste entre movil y PC.
+
+Los menus debe funcionar de la siguiente forma:
+De la paguna de catalogos, debe mandar una lista de productos, segun la categoria, de 1 a 5 de las que escogimos.
+En cada uno de los objetos debe poderse tomar desde diferentes angulos y de la misma forma pdoer hacer un apartado de aumento el cual muestre una imagen del producto.
+Esta debe contener una informacion y las caracteritsitacs del mimso y las estrellas
+hacer boton De compra, De salida y seleccion de menu cuando este se encoja.

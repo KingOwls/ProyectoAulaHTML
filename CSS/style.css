@@ -1,5 +1,6 @@
 *{
     background-color: #011126;
+    font-family: sans-serif;
 }
 :root {
     --first-color: #57d6f2;
@@ -16,6 +17,12 @@
 .search-img{
     padding: 0.5rem;
     width: 64px;
+    object-fit: cover;
+    background-color: #011126;
+}
+.search-img-contact{
+    padding: 1.5rem;
+    width: 200px;
     object-fit: cover;
     background-color: #011126;
 }
@@ -67,7 +74,10 @@
     color: #48b0d9;
     list-style-type: none;
 }
-
+li {
+    color: #57d6f2;
+    
+}
 .search-link:hover{
     border: 5px solid var(--greend);
     border-radius: 50px;
@@ -105,6 +115,15 @@
     border-radius: 50px;
 }
 .buttonContact-compra{
+    display: flex;
+    padding: 6%;
+    background-color: #002f6c;
+    border-radius: 50px;
+    align-content: space-around;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.buttonContact-compra-separacion{
     display: flex;
     padding: 6%;
     background-color: #002f6c;
